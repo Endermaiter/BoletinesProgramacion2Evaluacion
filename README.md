@@ -1,4 +1,4 @@
-# BOLETINES => _Primera Evaluación_
+# BOLETINES => _Segunda Evaluación_
 ## Boletines: `17` - `X`
 
 `Marcos Pérez Novoa - 1ºDAM`
